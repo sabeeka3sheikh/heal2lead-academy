@@ -4,14 +4,14 @@
    DESIGN TOKENS
 ═══════════════════════════════════════════ */
 :root {
-  --green:        #043927;
-  --green-deep:   #022218;
-  --green-mid:    #0a5c3e;
+  --green:        #1A1A1A;
+  --green-deep:   #0D0D0D;
+  --green-mid:    #2A2A2A;
   --gold:         #c5a059;
   --gold-light:   #d4b87a;
   --cream:        #e5d3b3;
   --rose:         #a87b7b;
-  --ivory:        #f9f7f2;
+  --ivory:        #F5F3EE;
   --charcoal:     #2c2c2c;
   --charcoal-mid: #4a4a4a;
   --charcoal-light:#7a7a7a;
