@@ -150,8 +150,13 @@ p:last-child { margin-bottom: 0; }
 
 .nav__logo {
   display: flex;
-  flex-direction: column;
+  align-items: center;
   line-height: 1;
+}
+
+.nav__logo-img {
+  height: 50px;
+  width: auto;
 }
 
 .nav__logo-main {
